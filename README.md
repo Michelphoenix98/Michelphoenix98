@@ -62,6 +62,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michelphoenix98&theme=onedark&column=7)](https://github.com/Michelphoenix98/github-profile-trophy)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
