@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">⚡Mike </h1>
-<h3 align="center">I'm a Flutter Developer.</h3>
+<h3 align="center">I'm a Software Engineer.</h3>
 	
 
 
